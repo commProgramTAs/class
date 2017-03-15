@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1488944864 source:h:\ccu\grade1_2\ta\lab2\projects\lab2-codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1488936457 source:h:\ccu\grade1_2\ta\lab2\projects\example\printf.c
+	<stdio.h>
+	<stdlib.h>
+
+1488939044 source:h:\ccu\grade1_2\ta\lab2\projects\example\data_type.c
+	<stdio.h>
+	<stdlib.h>
+
+1488936216 source:h:\ccu\grade1_2\ta\lab2\projects\example\word_transform.c
+	<stdlib.h>
+	<stdio.h>
+
+1488936345 source:h:\ccu\grade1_2\ta\lab2\projects\lab2\lab2\hw2a.c
+	<stdio.h>
+	<stdlib.h>
+
+1488937748 source:h:\ccu\grade1_2\ta\lab2\projects\example\overflow.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1488944938 source:h:\ccu\grade1_2\ta\lab2\projects\example\operator.c
+	<stdio.h>
+	<stdlib.h>
+
+1488937976 source:h:\ccu\grade1_2\ta\lab2\projects\example\data_size.c
+	<stdio.h>
+	<stdlib.h>
+
+1488963948 source:e:\homeworks\ta\本屆\lab2\projects\example\data_size.c
+	<stdio.h>
+	<stdlib.h>
+
+1488973557 source:e:\homeworks\ta\本屆\lab2\projects\example\data_type.c
+	<stdio.h>
+	<stdlib.h>
+
+1488975816 source:e:\homeworks\ta\本屆\lab2\projects\example\operator.c
+	<stdio.h>
+	<stdlib.h>
+
+1488963935 source:e:\homeworks\ta\本屆\lab2\projects\example\overflow.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1488977127 source:e:\homeworks\ta\本屆\lab2\projects\example\word_transform.c
+	<stdio.h>
+
+1488973921 source:e:\homeworks\ta\本屆\lab2\projects\lab2-codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1488936345 source:e:\homeworks\ta\本屆\lab2\projects\lab2\lab2\hw2a.c
+	<stdio.h>
+	<stdlib.h>
+
+1488963939 source:e:\homeworks\ta\本屆\lab2\projects\example\print.c
+	<stdio.h>
+	<stdlib.h>
+
+1488976350 source:e:\homeworks\ta\本屆\lab2\projects\example\judgement.c
+	<stdio.h>
+	<stdlib.h>
+
+1488964966 source:e:\homeworks\ta\本屆\lab2\projects\example\example.c
+	<stdio.h>
+	<stdlib.h>
+

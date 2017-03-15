@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="lab2-CodeBlocks" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\lab2-CodeBlocks" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\lab2-CodeBlocks" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="..\Lab2\Lab2\hw2a.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\example\data_size.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\example\data_type.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\example\example.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\example\judgement.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\example\operator.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\example\overflow.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\example\print.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\example\word_transform.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
