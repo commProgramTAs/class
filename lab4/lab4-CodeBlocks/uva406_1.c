@@ -3,7 +3,7 @@
 #include <stdbool.h>
 #include <string.h>
 
-int main(){
+int uva406(){
     int Max_array = 1000;
     int N, C, i, j;
     bool array[Max_array + 1];
@@ -23,7 +23,6 @@ int main(){
     while (scanf("%d %d", &N, &C) != EOF) {
         int prime_numbers[500], start, end, list_len;
 
-        printf("%d %d:", N, C);
         for (i = 1, list_len = 0; i <= N; i++) {
             if (array[i]) {
                 prime_numbers[list_len] = i;
@@ -33,9 +32,10 @@ int main(){
 		start = list_len / 2 - C + 1;
 		end = list_len / 2 + C - 1;
 		if (!(list_len % 2)) start--;
-
 		if (start < 1) start = 0;
 		if (end > list_len - 1) end = list_len - 1;
+
+        printf("%d %d:", N, C);
 		for (i = start; i < end; i++) {
             printf(" %d", prime_numbers[i]);
 		}
