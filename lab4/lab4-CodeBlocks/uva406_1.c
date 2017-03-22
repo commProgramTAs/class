@@ -20,9 +20,9 @@ int uva406(){
         }
     }
 
-    while (scanf("%d %d", &N, &C) != EOF) {
+     do {
         int prime_numbers[500], start, end, list_len;
-
+        scanf("%d %d", &N, &C);
         for (i = 1, list_len = 0; i <= N; i++) {
             if (array[i]) {
                 prime_numbers[list_len] = i;
@@ -41,7 +41,7 @@ int uva406(){
 		}
 		printf(" %d\n\n", prime_numbers[i]);
 
-    }
+    } while (N > 0);
 
     return 0;
 }

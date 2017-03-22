@@ -3,13 +3,22 @@
 	<stdio.h>
 	<stdlib.h>
 
-1490035834 source:h:\ccu\grade1_2\ta\program_lesson\lab4\lab4-codeblocks\mul_matrix.c
+1490158007 source:h:\ccu\grade1_2\ta\program_lesson\lab4\lab4-codeblocks\mul_matrix.c
 	<stdio.h>
 	<stdlib.h>
 
-1490115518 source:h:\ccu\grade1_2\ta\program_lesson\lab4\lab4-codeblocks\main.c
+1490166210 source:h:\ccu\grade1_2\ta\program_lesson\lab4\lab4-codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1490120137 source:h:\ccu\grade1_2\ta\program_lesson\lab4\lab4-codeblocks\uva406_1.c
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>
 	<string.h>
+
+1490166211 source:h:\ccu\grade1_2\ta\program_lesson\lab4\lab4-codeblocks\det_matrix.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
 
