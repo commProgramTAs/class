@@ -17,8 +17,8 @@ int main(){
         else if (!strcmp(input, "mul_matrix")) {
             mul_matrix();
         }
-        else if (!strcmp(input, "hw1")) {
-            //hw1();
+        else if (!strcmp(input, "ex")) {
+            ex();
         }
         else if (!strcmp(input, "hw2")) {
             //hw2();

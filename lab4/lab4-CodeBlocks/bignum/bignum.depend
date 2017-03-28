@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1490173587 source:c:\users\egoist\desktop\lab4\bignum\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1490669494 source:e:\homeworks\ta\class\lab4\lab4-codeblocks\bignum\main.c
+	<stdio.h>
+	<stdlib.h>
+

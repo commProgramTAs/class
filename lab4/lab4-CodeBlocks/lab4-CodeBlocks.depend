@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1489649050 source:e:\homeworks\ta\class\lab4\lab4-codeblocks\main.c
+1490182027 source:e:\homeworks\ta\class\lab4\lab4-codeblocks\main.c
 	<stdio.h>
 	<stdlib.h>
 
@@ -21,4 +21,23 @@
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
+
+1490171612 source:e:\homeworks\ta\class\lab4\lab4-codeblocks\mul_matrix.c
+	<stdio.h>
+	<stdlib.h>
+
+1490171612 source:e:\homeworks\ta\class\lab4\lab4-codeblocks\uva406_1.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1490171612 source:e:\homeworks\ta\class\lab4\lab4-codeblocks\det_matrix.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1490182983 source:e:\homeworks\ta\class\lab4\lab4-codeblocks\example.c
+	<stdio.h>
+	<stdlib.h>
 
