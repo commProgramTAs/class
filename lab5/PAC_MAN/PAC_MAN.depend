@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490871175 source:h:\ccu\grade1_2\ta\winbgim\pac_man\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<graphics.h>
+
+1266061814 h:\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
