@@ -1,5 +1,13 @@
 # depslib dependency file v1.0
-1491927976 source:h:\ccu\grade1_2\ta\program_lesson\lab6\lab6\main.c
+1491936227 source:h:\ccu\grade1_2\ta\program_lesson\lab6\lab6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1491918519 source:h:\ccu\grade1_2\ta\program_lesson\lab6\lab6\example\gcd.c
+	<stdio.h>
+	<stdlib.h>
+
+1491932728 source:h:\ccu\grade1_2\ta\program_lesson\lab6\lab6\example\uva401.c
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>

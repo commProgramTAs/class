@@ -8,7 +8,7 @@ int gcd_f() {
 
     printf("Enter two numbers to do GCD: ");
     scanf("%d%d",&m ,&n);
-    printf("%d", gcd(m, n));
+    printf("%d\n\n", gcd(m, n));
 
     return 0;
 }

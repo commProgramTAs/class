@@ -11,9 +11,6 @@ int main(){
         if (!strcmp(input, "gcd_f")) {
             gcd_f();
         }
-        else if (!strcmp(input, "uva")) {
-            uva406();
-        }
         else if (!strcmp(input, "hw")) {
             hw();
         }
