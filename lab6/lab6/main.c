@@ -8,11 +8,17 @@ int main(){
         printf("lab6 example: ");
         scanf("%s", &input);
 
-        if (!strcmp(input, "gcd_f")) {
+        if (!strcmp(input, "gcd")) {
             gcd_f();
         }
         else if (!strcmp(input, "hw")) {
             hw();
+        }
+        else if (!strcmp(input, "fib")) {
+            fib_f();
+        }
+        else if (!strcmp(input, "min")) {
+            min_f();
         }
     } while (strcmp(input, "exit"));
 

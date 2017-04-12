@@ -31,7 +31,13 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="example\fib.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="example\gcd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="example\min.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="example\uva401.c">
