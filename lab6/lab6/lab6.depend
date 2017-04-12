@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1491970988 source:h:\ccu\grade1_2\ta\program_lesson\lab6\lab6\main.c
+1491972568 source:h:\ccu\grade1_2\ta\program_lesson\lab6\lab6\main.c
 	<stdio.h>
 	<stdlib.h>
 
@@ -13,5 +13,8 @@
 	<stdbool.h>
 
 1491972159 source:h:\ccu\grade1_2\ta\program_lesson\lab6\lab6\example\fib.c
+	<stdio.h>
+
+1491973035 source:h:\ccu\grade1_2\ta\program_lesson\lab6\lab6\example\min.c
 	<stdio.h>
 
