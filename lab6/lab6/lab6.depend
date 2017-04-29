@@ -18,3 +18,18 @@
 1491973035 source:h:\ccu\grade1_2\ta\program_lesson\lab6\lab6\example\min.c
 	<stdio.h>
 
+1491980825 source:e:\homeworks\ta\class\lab6\lab6\example\gcd.c
+	<stdio.h>
+	<stdlib.h>
+
+1491980825 source:e:\homeworks\ta\class\lab6\lab6\example\min.c
+	<stdio.h>
+
+1491980825 source:e:\homeworks\ta\class\lab6\lab6\example\uva401.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1491980825 source:e:\homeworks\ta\class\lab6\lab6\example\fib.c
+	<stdio.h>
+
